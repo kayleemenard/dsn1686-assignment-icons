@@ -1,8 +1,8 @@
+# exercise 1
+exercise #1 for Web Dev, custom icon font
+
 DSN1686_Assignment_Icons Thursday, January 21st, 2016
 by Kaylee Menard
-
-GENERAL USAGE NOTES
-- created for 16W_DSN1686 Exercise #1
 
 =========
 
